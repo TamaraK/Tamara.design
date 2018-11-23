@@ -104,3 +104,8 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.about-banner {
+  background-color: #636363;
+  color: #fff;
+}
